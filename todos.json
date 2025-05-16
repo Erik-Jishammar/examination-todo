@@ -1,0 +1,22 @@
+[
+  {
+    "id": "15ebbb31-8f25-419a-aa24-78856e0ee6bd",
+    "task": "Sova",
+    "completed": true
+  },
+  {
+    "id": "c35f400e-00d7-4d15-b3d0-dc8b67257914",
+    "task": "Dricka öl i mängder",
+    "completed": false
+  },
+  {
+    "id": "332edc1c-c842-4b2b-8722-cc4e85d19a8c",
+    "task": "Åka till Göteborg",
+    "completed": false
+  },
+  {
+    "id": "c0250ec5-ddcd-40c1-a91a-21e758128be2",
+    "task": "Träna på att koda",
+    "completed": false
+  }
+]
